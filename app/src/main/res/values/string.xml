@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Example</string>
+    <string name="app_name">ChangeColors</string>
+    <string name="name_menu">menu</string>
+    <string name="name_menu1">Refresh</string>
+    <string name="name_menu2">Settings</string>
+    <string name="name_menu3">Quit</string>
+    <string name="name_button">Animation</string>
+
+
+</resources>

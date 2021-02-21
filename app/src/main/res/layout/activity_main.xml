@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/screen_bkg_color"
+    android:orientation="vertical"
+    android:visibility="visible"
+    tools:visibility="visible">
+
+    <TextView
+        style="@style/NormalText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/view_bkg_color"
+        android:text="@string/hello" />
+
+    <Button
+        android:id="@+id/btn"
+        style="@style/SmallText"
+        android:layout_width="150sp"
+        android:layout_height="90sp"
+        android:layout_margin="125sp"
+        android:text="@string/name_button" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/flag" />
+
+
+</LinearLayout>

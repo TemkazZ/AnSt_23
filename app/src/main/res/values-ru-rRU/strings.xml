@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Изменение цветов</string>
+    <string name="hello">Пример</string>
+    <string name="name_menu">Меню</string>
+    <string name="name_menu1">Обновить</string>
+    <string name="name_menu2">Настройки</string>
+    <string name="name_menu3">Выйти</string>
+    <string name="name_button">Анимация</string>
+</resources>
